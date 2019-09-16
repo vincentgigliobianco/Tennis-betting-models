@@ -1,0 +1,26 @@
+Pour améliorer le modèle: 
+
+1. On pourait mettre la variable 'tourney_level' en ordinale au lieu d'utiliser "labels encoding"
+
+2. Je n'ai pas utilisé les statistiques des joueurs pour chaque match, parce-que si on se considère comme
+un parieur, alors on ne connaît pas ces statistiques avant le début d'un match.
+Néanmoins pour améliorer le modèle, on pourrait calculer les moyennes des statistiques
+de chaque joueur comme les pourcentages de points gagnés au 1er service, etc...
+Ces features connues avant le début de chaque match seraient alors utilisables pour notre modèle.
+
+3. On pourrait créer des features "confrontations" 
+
+4. On pourrait calculer des scores en points par type de surface. 
+
+5. Utiliser la variable pays du tournoi afin de savoir si un joueur joue un tournoi dans son pays d'origine
+
+6. Croiser la variable player_hand * opponent*player 
+pour donner de l'importance au fait qu'un joueur droitier joue contre un gaucher
+ou un droitier joue contre un droitier, ou etc ...
+
+7. On pourrait créer une feature "fatigue" égale au temps total passé par un joueur
+sur le court durant un tournoi
+
+
+
+
