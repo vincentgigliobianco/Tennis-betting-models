@@ -18,4 +18,4 @@ With the hypothesis that :
 - we earn same amount of money than the amount initially bet when the prediction of winners is found 
 - we lose same amount of money than the amount initially bet when the prediction of winners is not found 
 
-The results shows that the second model "winning margin" is slightly better that the first one
+The results show that the second model "winning margin" is slightly better that the first one
