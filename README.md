@@ -1,6 +1,7 @@
 # Tennis betting dataset 
 
-The dataset is available at:https://www.kaggle.com/sijovm/atpdata
+The dataset is available at:
+https://www.kaggle.com/sijovm/atpdata
 
 In this project, two models are implemented by using only the file "ATP.csv":
 
