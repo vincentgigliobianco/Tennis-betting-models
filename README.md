@@ -1,6 +1,8 @@
 # Tennis betting dataset 
 
-In this project, two models are implemented:
+The dataset is available at:https://www.kaggle.com/sijovm/atpdata
+
+In this project, two models are implemented by using only the file "ATP.csv":
 
 - one first is takes into account the probability that a player wins a match 
 - the second one takes into account the probability that the opponent wins the match and also that the first player wins the match
