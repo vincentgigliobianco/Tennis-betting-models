@@ -11,7 +11,7 @@ In this project, two models are implemented by using only the file "ATP.csv":
 For the first model, the dataset has been shuffled according to the order of columns "losing player" against "winning player"
 whereas for the second, the dataset has been modified by duplicating rows of each match and inverting the columns of "losing player" against "winning player".
 
-For the second model, the probability of the first player wins and the one that the second model wins are the outputs of the model.
+For the second model, the probability that the first player wins and the one that the second model wins are the outputs of the model.
 We use the difference of these two probabilities and we call the second model the "winning margin" model.
 
 With the hypothesis that :
